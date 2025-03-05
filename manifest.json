@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "manifest_version": 3,
     "name": "MindCloud Google Sheets Extension",
     "description": "Run a basic MindCloud journal stored in your Google Sheets.",
@@ -7,3 +8,10 @@
       "_note": "add images"
     }
   }
+=======
+  "manifest_version": 3,
+  "name": "MoodTrackReminder",
+  "version": "1.0",
+  "description": "Update your MoodTracker Google Sheet on the go using this extension whenever you access Chrome"
+}
+>>>>>>> fffaa672930286b990fd8b394bf460351a769227
